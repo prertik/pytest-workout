@@ -7,7 +7,7 @@ Task.__new__.__defaults__ = (None, None, False, None)
 
 
 # custom exceptions
-class TaskException(Exception):
+class TasksException(Exception):
     """A tasks error has occured."""
 
 
