@@ -23,6 +23,13 @@ Experiments with pytest
 * Documentation: https://pytest-workout.readthedocs.io.
 
 
+Build
+-----
+
+Use `pipenv`. First, `pipenv --python 3.7`.
+Then, `pipenv install -e .` and `pipenv shell`. Then, `pytest`.
+
+
 Features
 --------
 
