@@ -1,7 +1,7 @@
 ==============
 pytest-workout
 ==============
-
+Based on Python Testing with pytest
 
 .. image:: https://img.shields.io/pypi/v/pytest_workout.svg
         :target: https://pypi.python.org/pypi/pytest_workout
