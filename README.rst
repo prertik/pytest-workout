@@ -25,9 +25,14 @@ Experiments with pytest
 
 Build
 -----
-
-Use `pipenv`. First, `pipenv --python 3.7`.
-Then, `pipenv install -e .` and `pipenv shell`. Then, `pytest`.
+.. code:: bash
+    # Use pipenv 
+    # First, 
+    pipenv --python 3.7.
+    # Then
+    pipenv install -e .
+    pipenv shell
+    pytest
 
 
 Features
